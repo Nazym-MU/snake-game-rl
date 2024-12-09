@@ -1,6 +1,6 @@
 # Snake Game AI with Reinforcement Learning
 
-This project implements an AI that learns to play the Snake game using Reinforcement Learning, specifically Q-Learning with PyTorch. The implementation is based on the tutorial by Patrick Loeber (Python Engineer)[https://youtu.be/L8ypSXwyBds?si=kX0KxCnwEvtvc6QZ] with additional improvements to the reward system and game mechanics.
+This project implements an AI that learns to play the Snake game using Reinforcement Learning, specifically Q-Learning with PyTorch. The implementation is based on the tutorial by Patrick Loeber [Python Engineer](https://youtu.be/L8ypSXwyBds?si=kX0KxCnwEvtvc6QZ) with additional improvements to the reward system and game mechanics.
 
 ## Project Overview
 
